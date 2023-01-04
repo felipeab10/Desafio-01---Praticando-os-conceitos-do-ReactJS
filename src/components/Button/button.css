@@ -1,0 +1,14 @@
+ button[type="submit"] {
+  background-color: var(--blue-dark);
+  border-radius: 8px;
+  border: none;
+  padding: 16px;
+  font-size: 14px;
+  font-weight: 700;
+  color:var(--gray-100);
+ 
+}
+button[type="submit"]:hover {
+  background-color: var(--blue);
+ 
+}
